@@ -11,7 +11,7 @@ To use this script, you will need to have Python and the `cryptography` library 
 
 Once you have Python and `cryptography` installed, you can run the script by navigating to the directory containing the script and running the following command:
 
-``` python password_generator.py ```
+``` python password generator.py ```
 
 
 The script will prompt you to enter the desired length for the password. The password will be generated and encrypted, and the resulting ciphertext and key will be written to the file `password.txt`.
@@ -29,3 +29,6 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+Author: Cyph3r Ryx
